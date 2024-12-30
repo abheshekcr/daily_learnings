@@ -34,11 +34,13 @@ kestra simple pipeline..
 
 python file to make a api call to the kestra github account and parse the stargazers_count from the json response ..which is a dict of key value pairs ..
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a2103482-b8e9-4d9c-a5e8-964356107cee/051f006b-254b-4adf-8d0d-30ff463e8ee9/image.png)
+![image](https://github.com/user-attachments/assets/b6eea835-21be-46cf-8c74-cc16b06bd616)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a2103482-b8e9-4d9c-a5e8-964356107cee/cf4df737-b79a-4150-8b2c-0b1d1a6ef884/image.png)
+![image](https://github.com/user-attachments/assets/4220228e-7b97-4dff-9e64-80deda491466)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/a2103482-b8e9-4d9c-a5e8-964356107cee/f17047c2-aa56-4d86-aa51-4d1caa86d99b/image.png)
+![image](https://github.com/user-attachments/assets/477c965e-3191-4f5f-837f-a2034d46f8d8)
+
+
 
 [1.here](http://1.here) we started off with a simple task with a id hello which can run python commands..we can select this from a variety of options that we could choose from in the kestra ui for the type ..
 
