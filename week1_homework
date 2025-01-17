@@ -1,1 +1,20 @@
 
+
+
+3.Trip Segmentation Count
+
+```
+with cte1 as (
+select index ,case when trip_distance <=1 then '1m'
+when trip_distance >1 and trip_distance<=3 then '3m'
+when trip_distance >3 and trip_distance <=7 then '7m'
+when trip_distance >7 and trip_distance<=10 then '10m'
+else '10m+' end as trip_levels
+from green_tripdata)
+
+select count(index) as cnt,trip_levels from cte1
+group by trip_levels
+```
+
+
+
