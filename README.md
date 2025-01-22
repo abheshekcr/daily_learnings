@@ -14,5 +14,5 @@ A brief description of the project.
 
 ## Installation
 1. Clone the repository:
-   ```bash
+   ```sql
    git clone https://github.com/username/repo.git
