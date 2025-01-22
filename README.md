@@ -1,5 +1,18 @@
 # daily_learnings
 
-# Main Title
-## Subtitle
-### Section
+# Project Name
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+## Description
+A brief description of the project.
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/repo.git
